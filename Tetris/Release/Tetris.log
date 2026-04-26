@@ -1,0 +1,7 @@
+﻿  Tetris.cpp
+C:\Users\Кирилл\source\repos\Tetris\Tetris\Tetris.cpp(145,1): error C2059: синтаксическая ошибка: }
+C:\Users\Кирилл\source\repos\Tetris\Tetris\Tetris.cpp(145,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\Кирилл\source\repos\Tetris\Tetris\Tetris.cpp(147,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Кирилл\source\repos\Tetris\Tetris\Tetris.cpp(147,20): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Кирилл\source\repos\Tetris\Tetris\Tetris.cpp(270,101): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Кирилл\source\repos\Tetris\Tetris\Tetris.cpp(293,101): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных

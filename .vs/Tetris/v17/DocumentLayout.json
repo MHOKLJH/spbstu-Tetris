@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\Tetris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C0FCD3-B000-44B2-97BC-EA3ADB70E9E3}|Tetris\\Tetris.vcxproj|C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\Tetris\\Tetris\\Tetris.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7C0FCD3-B000-44B2-97BC-EA3ADB70E9E3}|Tetris\\Tetris.vcxproj|solutionrelative:Tetris\\Tetris.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tetris.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\Tetris\\Tetris\\Tetris.cpp",
+              "RelativeDocumentMoniker": "Tetris\\Tetris.cpp",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\Tetris\\Tetris\\Tetris.cpp",
+              "RelativeToolTip": "Tetris\\Tetris.cpp",
+              "ViewState": "AgIAAPgBAAAAAAAAAAAcwBsCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T11:21:44.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

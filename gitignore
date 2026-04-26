@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docview
+*.vcxproj.filters
+ipch/
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.iobj
+*.ipdb
+*.log
+*.tlog/
+*.lastbuildstate
+*.unsuccessfulbuild
+*.recipe
+
+# NuGet (keep packages.config, ignore downloaded packages themselves)
+packages/*/
+
+# Compiled binary (optional: remove these lines if you want to ship the .exe)
+*.exe
+*.dll
+
+# High-score file (personal data, don't commit)
+Record.txt

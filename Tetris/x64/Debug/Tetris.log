@@ -1,0 +1,4 @@
+﻿  Tetris.cpp
+C:\Users\Кирилл\source\repos\Tetris\Tetris\Tetris.cpp(267,101): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Кирилл\source\repos\Tetris\Tetris\Tetris.cpp(290,101): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+LINK : fatal error LNK1104: не удается открыть файл "freeglutd.lib"
